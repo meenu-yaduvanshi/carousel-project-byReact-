@@ -1,0 +1,30 @@
+img {
+    box-shadow: 0 0 10px 0;
+    height: 400px;
+    width: 300px;
+}
+
+.back-btn {
+    background-color: #888;
+    border: 1px solid black;
+    border-radius: 50%;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.next-btn {
+    background-color: #888;
+    border: 1px solid black;
+    border-radius: 50%;
+    font-size: 20px;
+    padding: 10px;
+}
+
+* {
+    margin: 7px;
+    background-color: pink;
+}
+
+.main-div{
+    text-align: center;
+}
